@@ -16,7 +16,9 @@ namespace deck_of_card_enum
                                     (Suits)ngacax.Next(4));
 
 
-            Console.WriteLine(kard.Name);
+            //Console.WriteLine(kard.Name);
+            Console.WriteLine((Values)2);
+
         } //END Main
     }
 }
